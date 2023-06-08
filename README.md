@@ -1,1 +1,2 @@
-# cloud-capstone
+# cloud
+Cloud Computing part.
